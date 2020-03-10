@@ -1,16 +1,19 @@
 # stock_portfolio
 
-A new Flutter project.
+A Stock portfolio tracker app that is made using Flutter. Track portfolio returns in a simple and minimalistic app.
 
-## Getting Started
+### Installing
 
-This project is a starting point for a Flutter application.
+Coming soon to Apple app store and Google playstore
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Flutter](https://flutter.dev/) - The mobile app framework used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+
+- **Jason Ng** - _Initial work_ - [jasonngjh](https://github.com/jasonngjh)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
